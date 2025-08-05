@@ -74,10 +74,10 @@ CFG_DEV_ID list
 full list: https://github.com/torvalds/linux/blob/master/drivers/net/wireless/ath/ath9k/pci.c#L24
 */
   parameter         CFG_VEND_ID        = 16'hBDBD,
-  parameter         CFG_DEV_ID         = 16'hA117,
+  parameter         CFG_DEV_ID         = 16'hA117,  //change me 
   parameter         CFG_REV_ID         =  8'h00,
   parameter         CFG_SUBSYS_VEND_ID = 16'hBDBD,
-  parameter         CFG_SUBSYS_ID      = 16'hA117,
+  parameter         CFG_SUBSYS_ID      = 16'hA117,  //change me
   parameter         PCIE_ID_IF         ="TRUE", 
 
   parameter         EXT_PIPE_SIM = "FALSE",
