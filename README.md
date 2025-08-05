@@ -1,3 +1,5 @@
+change Device ID and now you have yourself 7 different "unique" devices
+
 # pcileech-intensity
 FPGA card looks like a a blackmagic capture card, but hides inside pcileech-fpga researching tool. 
 
